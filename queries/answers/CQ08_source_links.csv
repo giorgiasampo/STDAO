@@ -1,0 +1,106 @@
+entity,label,sourceEntity
+http://www.semanticweb.org/gisa/STDAO/DAO,DAO,http://www.fdi.ucm.es/disia/ont/web3/DAO#DAO
+http://www.semanticweb.org/gisa/STDAO/Dapp,Dapp,http://www.fdi.ucm.es/disia/ont/web3/DAO#Dapp
+http://www.semanticweb.org/gisa/STDAO/ballot,Ballot,http://www.fdi.ucm.es/disia/ont/web3/DAO#Votes
+http://www.semanticweb.org/gisa/STDAO/ballotBy,Ballot By,http://www.fdi.ucm.es/disia/ont/web3/DAO#votesOfEOA
+http://www.semanticweb.org/gisa/STDAO/ballotInProcess,Ballot In Process,http://www.fdi.ucm.es/disia/ont/web3/DAO#votesOfProposal
+http://www.semanticweb.org/gisa/STDAO/belongsTo,Belongs To,http://www.fdi.ucm.es/disia/ont/web3/DAO#belongsTo
+http://www.semanticweb.org/gisa/STDAO/blockchain,Blockchain,http://www.fdi.ucm.es/disia/ont/web3/DAO#Blockchain
+http://www.semanticweb.org/gisa/STDAO/blockchainAccount,Blockchain Account,http://www.fdi.ucm.es/disia/ont/FOAF#OnlineAccount
+http://www.semanticweb.org/gisa/STDAO/blockchainID,Blockchain ID,http://www.fdi.ucm.es/disia/ont/web3/DAO#blockchainId
+http://www.semanticweb.org/gisa/STDAO/cancelled,Cancelled,http://www.fdi.ucm.es/disia/ont/web3/DAO#cancelled
+http://www.semanticweb.org/gisa/STDAO/cancelledAt,Cancelled At,http://www.fdi.ucm.es/disia/ont/web3/DAO#cancelledAt
+http://www.semanticweb.org/gisa/STDAO/createdAt,Created At,http://www.fdi.ucm.es/disia/ont/web3/DAO#createdAt
+http://www.semanticweb.org/gisa/STDAO/createsProposal,Creates Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#createsProposal
+http://www.semanticweb.org/gisa/STDAO/description,Description,http://www.fdi.ucm.es/disia/ont/web3/DAO#dappDescription
+http://www.semanticweb.org/gisa/STDAO/didPass,Did Pass,http://www.fdi.ucm.es/disia/ont/web3/DAO#didPass
+http://www.semanticweb.org/gisa/STDAO/documents,Documents,http://www.fdi.ucm.es/disia/ont/FOAF#Document
+http://www.semanticweb.org/gisa/STDAO/electionProposal,Election Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#Elections
+http://www.semanticweb.org/gisa/STDAO/endDate,End Date,http://www.fdi.ucm.es/disia/ont/web3/DAO#endDate
+http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation,Exchange Rate Observation,http://www.fdi.ucm.es/disia/ont/web3/DAO#cryptoPrice
+http://www.semanticweb.org/gisa/STDAO/externallyOwnedAccount,Externally Owned Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#EOA
+http://www.semanticweb.org/gisa/STDAO/fundAllocationContract,Fund Allocation Contract,http://www.fdi.ucm.es/disia/ont/web3/DAO#FundAllocationContract
+http://www.semanticweb.org/gisa/STDAO/governanceProposal,Governance Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#Others
+http://www.semanticweb.org/gisa/STDAO/hasAccount,Has Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasEOAAccount
+http://www.semanticweb.org/gisa/STDAO/hasBallot,Has Ballot,http://www.fdi.ucm.es/disia/ont/web3/DAO#eoaHasVotes
+http://www.semanticweb.org/gisa/STDAO/hasDAOMembershipRecord,Has DAO Membership Record,http://www.fdi.ucm.es/disia/ont/web3/DAO#committeeHasIsMember
+http://www.semanticweb.org/gisa/STDAO/hasHoldingObservation,Has Holding Observation,http://www.fdi.ucm.es/disia/ont/web3/DAO#tokenHasHolds
+http://www.semanticweb.org/gisa/STDAO/hasMembershipRecord,Has Membership Record,http://www.fdi.ucm.es/disia/ont/web3/DAO#eoaHasIsMember
+http://www.semanticweb.org/gisa/STDAO/hasPrice,Has Price,http://www.fdi.ucm.es/disia/ont/web3/DAO#cryptoPrice
+http://www.semanticweb.org/gisa/STDAO/hasProposal,Has Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#receivesProposal
+http://www.semanticweb.org/gisa/STDAO/hasSideChain,Has Side Chain,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasSidechain
+http://www.semanticweb.org/gisa/STDAO/hasSubDao,Has Sub Dao,http://www.fdi.ucm.es/disia/ont/web3/DAO#SubDAO
+http://www.semanticweb.org/gisa/STDAO/hasToken,Has Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#supportsToken
+http://www.semanticweb.org/gisa/STDAO/hasTokenHolding,Has Token Holding,http://www.fdi.ucm.es/disia/ont/web3/DAO#eoaHasHolds
+http://www.semanticweb.org/gisa/STDAO/hasTreasury,Has Treasury,http://www.fdi.ucm.es/disia/ont/web3/DAO#sharesCryptoWallet
+http://www.semanticweb.org/gisa/STDAO/hasUserInterface,Has User Interface,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasWebUserInterface
+http://www.semanticweb.org/gisa/STDAO/hasValueInUSD,Has Value In USD,http://www.fdi.ucm.es/disia/ont/web3/DAO#tokenUSDValue
+http://www.semanticweb.org/gisa/STDAO/heldToken,Held Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#holdsOfToken
+http://www.semanticweb.org/gisa/STDAO/holdingBy,Holding By,http://www.fdi.ucm.es/disia/ont/web3/DAO#holdsOfEOA
+http://www.semanticweb.org/gisa/STDAO/implementedBy,Implemented By,http://www.fdi.ucm.es/disia/ont/web3/DAO#implementedBy
+http://www.semanticweb.org/gisa/STDAO/implementsToken,Implements Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#implementsToken
+http://www.semanticweb.org/gisa/STDAO/investmentProposal,Investment Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#Financial
+http://www.semanticweb.org/gisa/STDAO/isBuiltOn,Is Built On,http://www.fdi.ucm.es/disia/ont/web3/DAO#builtOn
+http://www.semanticweb.org/gisa/STDAO/isEmployedForVotingOn,Is Employed For Voting On,http://www.fdi.ucm.es/disia/ont/web3/DAO#isVotingToken
+http://www.semanticweb.org/gisa/STDAO/isFungible,Is Fungible,http://www.fdi.ucm.es/disia/ont/web3/DAO#FungibleToken
+http://www.semanticweb.org/gisa/STDAO/isHostingProposal,Has Proposal Text,http://www.fdi.ucm.es/disia/ont/web3/DAO#includesProposalDocument
+http://www.semanticweb.org/gisa/STDAO/isMainContractOf,Is Main Contract Of,http://www.fdi.ucm.es/disia/ont/web3/DAO#isMainContractOf
+http://www.semanticweb.org/gisa/STDAO/isManagedByWallet,Is Managed By Wallet,http://www.fdi.ucm.es/disia/ont/web3/DAO#managedByCryptoWallet
+http://www.semanticweb.org/gisa/STDAO/isNonFungible,Is Non Fungible,http://www.fdi.ucm.es/disia/ont/web3/DAO#NonFungibleToken
+http://www.semanticweb.org/gisa/STDAO/isProposalCreated,Proposal Created By,http://www.fdi.ucm.es/disia/ont/web3/DAO#createdBy
+http://www.semanticweb.org/gisa/STDAO/isProposalDevelopedOn,Is Text Of Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#isPartOfProposal
+http://www.semanticweb.org/gisa/STDAO/isProposalOf,Is Proposal Of,http://www.fdi.ucm.es/disia/ont/web3/DAO#isProposalOf
+http://www.semanticweb.org/gisa/STDAO/isTechnicallyEncodedIn,Is Technically Encoded In,http://www.fdi.ucm.es/disia/ont/web3/DAO#isAssociatedWithAccount
+http://www.semanticweb.org/gisa/STDAO/isTokenOf,Is Token Of,http://www.fdi.ucm.es/disia/ont/web3/DAO#isSupportedBy
+http://www.semanticweb.org/gisa/STDAO/isTransferable,Is Transferable,http://www.fdi.ucm.es/disia/ont/web3/DAO#isTransferable
+http://www.semanticweb.org/gisa/STDAO/isTreasuryOf,Is Treasury Of,http://www.fdi.ucm.es/disia/ont/web3/DAO#usedByDAO
+http://www.semanticweb.org/gisa/STDAO/isVotedOnThrough,Is Voted On Through,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasVotingToken
+http://www.semanticweb.org/gisa/STDAO/isWalletAccountManagedBy,Is Wallet Account Managed By,http://www.fdi.ucm.es/disia/ont/web3/DAO#isPartOfWallet
+http://www.semanticweb.org/gisa/STDAO/managesToken,Manages Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#managesToken
+http://www.semanticweb.org/gisa/STDAO/managesWalletAccount,Manages Wallet Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#managesWalletAccount
+http://www.semanticweb.org/gisa/STDAO/membershipContract,Membership Contract,http://www.fdi.ucm.es/disia/ont/web3/DAO#MembershipContract
+http://www.semanticweb.org/gisa/STDAO/membershipDAO,Membership DAO,http://www.fdi.ucm.es/disia/ont/web3/DAO#isMemberOfCommittee
+http://www.semanticweb.org/gisa/STDAO/membershipMember,Membership Member,http://www.fdi.ucm.es/disia/ont/web3/DAO#isMemberOfEOA
+http://www.semanticweb.org/gisa/STDAO/membershipRecord,Membership Record,http://www.fdi.ucm.es/disia/ont/web3/DAO#IsMember
+http://www.semanticweb.org/gisa/STDAO/minimumApproval,Minimum Approval,http://www.fdi.ucm.es/disia/ont/web3/DAO#minimumApproval
+http://www.semanticweb.org/gisa/STDAO/oracle,Oracle,http://www.fdi.ucm.es/disia/ont/web3/DAO#Oracle
+http://www.semanticweb.org/gisa/STDAO/oracleAccount,Oracle Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#OracleContract
+http://www.semanticweb.org/gisa/STDAO/organization,Organization,http://www.fdi.ucm.es/disia/ont/FOAF#Organization
+http://www.semanticweb.org/gisa/STDAO/ownsToken,Owns Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#ownsToken
+http://www.semanticweb.org/gisa/STDAO/passesSmartContractRequests,Passes Smart Contract Requests,http://www.fdi.ucm.es/disia/ont/web3/DAO#passesSmartContractRequests
+http://www.semanticweb.org/gisa/STDAO/password,Password,http://www.fdi.ucm.es/disia/ont/web3/DAO#password
+http://www.semanticweb.org/gisa/STDAO/privateKey,Private Key,http://www.fdi.ucm.es/disia/ont/web3/DAO#privateKey
+http://www.semanticweb.org/gisa/STDAO/processHasBallot,Process Has Ballot,http://www.fdi.ucm.es/disia/ont/web3/DAO#proposalHasVotes
+http://www.semanticweb.org/gisa/STDAO/processed,Processed,http://www.fdi.ucm.es/disia/ont/web3/DAO#processed
+http://www.semanticweb.org/gisa/STDAO/processedAt,Processed At,http://www.fdi.ucm.es/disia/ont/web3/DAO#processedAt
+http://www.semanticweb.org/gisa/STDAO/proposal,Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#Proposal
+http://www.semanticweb.org/gisa/STDAO/proposalText,Proposal Text,http://www.fdi.ucm.es/disia/ont/web3/DAO#ProposalDocument
+http://www.semanticweb.org/gisa/STDAO/receivesExternalInformation,Receives External Information,http://www.fdi.ucm.es/disia/ont/web3/DAO#receivesExternalInformation
+http://www.semanticweb.org/gisa/STDAO/receivesSmartContractRequests,Receives Smart Contract Requests,http://www.fdi.ucm.es/disia/ont/web3/DAO#receivesSmartContractRequests
+http://www.semanticweb.org/gisa/STDAO/securityToken,Security Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#SecurityToken
+http://www.semanticweb.org/gisa/STDAO/smartContractAccount,Smart Contract Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#ContractAccount
+http://www.semanticweb.org/gisa/STDAO/smartContractAccount,Smart Contract Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#SmartContract
+http://www.semanticweb.org/gisa/STDAO/smartContractContent,Smart Contract Content,http://www.fdi.ucm.es/disia/ont/web3/DAO#SmartContract
+http://www.semanticweb.org/gisa/STDAO/startDate,Start Date,http://www.fdi.ucm.es/disia/ont/web3/DAO#startDate
+http://www.semanticweb.org/gisa/STDAO/team,Team,http://www.fdi.ucm.es/disia/ont/web3/DAO#Committee
+http://www.semanticweb.org/gisa/STDAO/technicalProposal,Technical Proposal,http://www.fdi.ucm.es/disia/ont/web3/DAO#Others
+http://www.semanticweb.org/gisa/STDAO/technicalTeam,Technical Team,http://www.fdi.ucm.es/disia/ont/web3/DAO#Tech
+http://www.semanticweb.org/gisa/STDAO/technicallyEncodes,Technically Encodes,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasSmartContract
+http://www.semanticweb.org/gisa/STDAO/textContent,Text Content,http://www.fdi.ucm.es/disia/ont/web3/DAO#text
+http://www.semanticweb.org/gisa/STDAO/token,Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#Token
+http://www.semanticweb.org/gisa/STDAO/tokenAmount,Token Amount,http://www.fdi.ucm.es/disia/ont/web3/DAO#holderBalance
+http://www.semanticweb.org/gisa/STDAO/tokenContract,Token Contract,http://www.fdi.ucm.es/disia/ont/web3/DAO#TokenContract
+http://www.semanticweb.org/gisa/STDAO/tokenDelegation,Token Delegation,http://www.fdi.ucm.es/disia/ont/web3/DAO#delegateKey
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,Token Holding,http://www.fdi.ucm.es/disia/ont/web3/DAO#Holds
+http://www.semanticweb.org/gisa/STDAO/tokenID,Token ID,http://www.fdi.ucm.es/disia/ont/web3/DAO#tokenId
+http://www.semanticweb.org/gisa/STDAO/tokenTransferRecord,Token Transfer Record,http://www.fdi.ucm.es/disia/ont/web3/DAO#tranfersFund
+http://www.semanticweb.org/gisa/STDAO/tokensAreOwnedBy,Tokens Are Owned By,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasTokenOwner
+http://www.semanticweb.org/gisa/STDAO/transactionalToken,Transactional Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#Cryptocurrency
+http://www.semanticweb.org/gisa/STDAO/transmitsExternalInformation,Transmits External Information,http://www.fdi.ucm.es/disia/ont/web3/DAO#transmitsExternalInformation
+http://www.semanticweb.org/gisa/STDAO/utilityToken,Utility Token,http://www.fdi.ucm.es/disia/ont/web3/DAO#UtilityToken
+http://www.semanticweb.org/gisa/STDAO/voteChoice,Vote Choice,http://www.fdi.ucm.es/disia/ont/web3/DAO#hasDecision
+http://www.semanticweb.org/gisa/STDAO/votingContract,Voting Contract,http://www.fdi.ucm.es/disia/ont/web3/DAO#VotingContract
+http://www.semanticweb.org/gisa/STDAO/votingProcess,Voting Process,http://www.fdi.ucm.es/disia/ont/web3/DAO#VoteDuration
+http://www.semanticweb.org/gisa/STDAO/web3WalletAccount,Web3 Wallet Account,http://www.fdi.ucm.es/disia/ont/web3/DAO#Web3Wallet
+http://www.semanticweb.org/gisa/STDAO/web3WalletPlatform,Web3 Wallet Platform,http://www.fdi.ucm.es/disia/ont/web3/DAO#Web3Wallet
+http://www.semanticweb.org/gisa/STDAO/whitepaperText,Whitepaper,http://www.fdi.ucm.es/disia/ont/web3/DAO#DAOAgreement

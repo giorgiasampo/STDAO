@@ -1,0 +1,11 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX st: <http://www.semanticweb.org/gisa/STDAO/>
+PREFIX old: <http://www.semanticweb.org/gisa/#STDAO:>
+SELECT ?record ?property ?operator ?count ?filler WHERE {
+ VALUES ?record { st:ballot st:votingProcess }
+ VALUES ?operator { owl:qualifiedCardinality owl:minQualifiedCardinality owl:maxQualifiedCardinality }
+ ?record rdfs:subClassOf ?restriction . ?restriction owl:onProperty ?property ; ?operator ?count .
+ ?restriction (owl:onClass|owl:onDataRange) ?filler . FILTER(isIRI(?filler))
+} ORDER BY ?record ?property

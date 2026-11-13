@@ -1,0 +1,16 @@
+branchLabel,classLabel,class
+Legal Aspects,Contract,http://www.semanticweb.org/gisa/STDAO/contract
+Legal Aspects,Decentralized Justice,http://www.semanticweb.org/gisa/STDAO/decentralizedJustice
+Legal Aspects,Law,http://www.semanticweb.org/gisa/STDAO/law
+Legal Aspects,Legal Aspects,http://www.semanticweb.org/gisa/STDAO/legalAspects
+Legal Aspects,Legal Framework,http://www.semanticweb.org/gisa/STDAO/legalFramework
+Legal Aspects,Regulatory Initiative,http://www.semanticweb.org/gisa/STDAO/regulatoryInitiative
+Security Risk,51 Percent Attack,http://www.semanticweb.org/gisa/STDAO/51attack
+Security Risk,Attack,http://www.semanticweb.org/gisa/STDAO/attack
+Security Risk,Centralization Risk,http://www.semanticweb.org/gisa/STDAO/centralizationRisk
+Security Risk,Decisional Bottlenecks,http://www.semanticweb.org/gisa/STDAO/decisionalBottlenecks
+Security Risk,Exploit Contract Vulnerability Attack,http://www.semanticweb.org/gisa/STDAO/exploitContractVulnerabilityAttack
+Security Risk,Power Centralization,http://www.semanticweb.org/gisa/STDAO/powerCentralization
+Security Risk,Reentrancy Attack,http://www.semanticweb.org/gisa/STDAO/reentrancyAttack
+Security Risk,Security Risk,http://www.semanticweb.org/gisa/STDAO/securityRisk
+Security Risk,Sybil Attack,http://www.semanticweb.org/gisa/STDAO/sybilAttack

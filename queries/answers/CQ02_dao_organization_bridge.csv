@@ -1,0 +1,3 @@
+property,domain,range,minimum,filler
+http://www.semanticweb.org/gisa/STDAO/DAOIsInstantiationOf,http://www.semanticweb.org/gisa/STDAO/DAO,http://www.semanticweb.org/gisa/STDAO/organization,1,http://www.semanticweb.org/gisa/STDAO/organization
+http://www.semanticweb.org/gisa/STDAO/hasDAOMember,http://www.semanticweb.org/gisa/STDAO/DAO,http://www.semanticweb.org/gisa/STDAO/member,1,http://www.semanticweb.org/gisa/STDAO/member

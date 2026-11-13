@@ -1,0 +1,11 @@
+record,property,count,filler
+http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation,http://www.semanticweb.org/gisa/STDAO/baseToken,1,http://www.semanticweb.org/gisa/STDAO/token
+http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation,http://www.semanticweb.org/gisa/STDAO/observedAt,1,http://www.w3.org/2001/XMLSchema#dateTime
+http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation,http://www.semanticweb.org/gisa/STDAO/quoteToken,1,http://www.semanticweb.org/gisa/STDAO/token
+http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation,http://www.semanticweb.org/gisa/STDAO/rateValue,1,http://www.w3.org/2001/XMLSchema#decimal
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,http://www.semanticweb.org/gisa/STDAO/heldToken,1,http://www.semanticweb.org/gisa/STDAO/token
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,http://www.semanticweb.org/gisa/STDAO/holdingBy,1,http://www.semanticweb.org/gisa/STDAO/blockchainAccount
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,http://www.semanticweb.org/gisa/STDAO/holdingBy,1,http://www.semanticweb.org/gisa/STDAO/organization
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,http://www.semanticweb.org/gisa/STDAO/holdingBy,1,http://www.semanticweb.org/gisa/STDAO/member
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,http://www.semanticweb.org/gisa/STDAO/observedAt,1,http://www.w3.org/2001/XMLSchema#dateTime
+http://www.semanticweb.org/gisa/STDAO/tokenHolding,http://www.semanticweb.org/gisa/STDAO/tokenAmount,1,http://www.w3.org/2001/XMLSchema#decimal

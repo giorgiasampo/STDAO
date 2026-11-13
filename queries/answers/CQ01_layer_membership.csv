@@ -1,0 +1,150 @@
+layerLabel,classLabel,class
+Governance Intermediation Layer,Airdrop,http://www.semanticweb.org/gisa/STDAO/airdrop
+Governance Intermediation Layer,Ballot,http://www.semanticweb.org/gisa/STDAO/ballot
+Governance Intermediation Layer,Blockchain Governance,http://www.semanticweb.org/gisa/#STDAO:blockchainGovernance
+Governance Intermediation Layer,Conflict Resolution Mechanism,http://www.semanticweb.org/gisa/STDAO/conflictResolutionMechanism
+Governance Intermediation Layer,Conviction Voting,http://www.semanticweb.org/gisa/STDAO/convictionVoting
+Governance Intermediation Layer,DAO Governance,http://www.semanticweb.org/gisa/STDAO/DAOGovernance
+Governance Intermediation Layer,Decentralized Justice,http://www.semanticweb.org/gisa/STDAO/decentralizedJustice
+Governance Intermediation Layer,Direct Voting,http://www.semanticweb.org/gisa/STDAO/directVoting
+Governance Intermediation Layer,Documents,http://www.semanticweb.org/gisa/STDAO/documents
+Governance Intermediation Layer,Economic Reward,http://www.semanticweb.org/gisa/STDAO/economic
+Governance Intermediation Layer,Election Proposal,http://www.semanticweb.org/gisa/STDAO/electionProposal
+Governance Intermediation Layer,Exchange Rate Observation,http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation
+Governance Intermediation Layer,Governance Intermediation Layer,http://www.semanticweb.org/gisa/#STDAO:governanceIntermediationLayer
+Governance Intermediation Layer,Governance Proposal,http://www.semanticweb.org/gisa/STDAO/governanceProposal
+Governance Intermediation Layer,Governance Token,http://www.semanticweb.org/gisa/STDAO/governanceToken
+Governance Intermediation Layer,Holographic Voting,http://www.semanticweb.org/gisa/STDAO/holographicVoting
+Governance Intermediation Layer,ICO,http://www.semanticweb.org/gisa/STDAO/ICO
+Governance Intermediation Layer,Investment Proposal,http://www.semanticweb.org/gisa/STDAO/investmentProposal
+Governance Intermediation Layer,Organizational Status,http://www.semanticweb.org/gisa/STDAO/organizationalStatus
+Governance Intermediation Layer,Practical Byzantine Fault Tolerance,http://www.semanticweb.org/gisa/STDAO/pbft
+Governance Intermediation Layer,Proof Of Stake,http://www.semanticweb.org/gisa/STDAO/PoS
+Governance Intermediation Layer,Proof Of Work,http://www.semanticweb.org/gisa/STDAO/PoW
+Governance Intermediation Layer,Proposal,http://www.semanticweb.org/gisa/STDAO/proposal
+Governance Intermediation Layer,Proposal Participation,http://www.semanticweb.org/gisa/#STDAO:proposalParticipation
+Governance Intermediation Layer,Proposal Pass Threshold,http://www.semanticweb.org/gisa/STDAO/proposalPassThreshold
+Governance Intermediation Layer,Proposal Text,http://www.semanticweb.org/gisa/STDAO/proposalText
+Governance Intermediation Layer,Quadratic Voting,http://www.semanticweb.org/gisa/STDAO/quadraticVoting
+Governance Intermediation Layer,Reputation,http://www.semanticweb.org/gisa/STDAO/reputation
+Governance Intermediation Layer,Reward / Incentive,http://www.semanticweb.org/gisa/STDAO/reward
+Governance Intermediation Layer,Security Token,http://www.semanticweb.org/gisa/STDAO/securityToken
+Governance Intermediation Layer,Smart Contract Content,http://www.semanticweb.org/gisa/STDAO/smartContractContent
+Governance Intermediation Layer,Special Rights Allocation,http://www.semanticweb.org/gisa/STDAO/specialRightsAllocation
+Governance Intermediation Layer,Technical Proposal,http://www.semanticweb.org/gisa/STDAO/technicalProposal
+Governance Intermediation Layer,Token,http://www.semanticweb.org/gisa/STDAO/token
+Governance Intermediation Layer,Token Delegation,http://www.semanticweb.org/gisa/STDAO/tokenDelegation
+Governance Intermediation Layer,Token Distribution,http://www.semanticweb.org/gisa/STDAO/tokenDistribution
+Governance Intermediation Layer,Token Holding,http://www.semanticweb.org/gisa/STDAO/tokenHolding
+Governance Intermediation Layer,Transactional Token,http://www.semanticweb.org/gisa/STDAO/transactionalToken
+Governance Intermediation Layer,Utility Token,http://www.semanticweb.org/gisa/STDAO/utilityToken
+Governance Intermediation Layer,Vote Majority,http://www.semanticweb.org/gisa/STDAO/voteMajority
+Governance Intermediation Layer,Vote Participation,http://www.semanticweb.org/gisa/STDAO/voteParticipation
+Governance Intermediation Layer,Voter Majority,http://www.semanticweb.org/gisa/STDAO/voterMajority
+Governance Intermediation Layer,Voter Turnout,http://www.semanticweb.org/gisa/STDAO/voterTurnout
+Governance Intermediation Layer,Votes Result,http://www.semanticweb.org/gisa/STDAO/votesResult
+Governance Intermediation Layer,Voting Process,http://www.semanticweb.org/gisa/STDAO/votingProcess
+Governance Intermediation Layer,Voting Scheme,http://www.semanticweb.org/gisa/STDAO/votingScheme
+Governance Intermediation Layer,Voting Strategy,http://www.semanticweb.org/gisa/STDAO/votingStrategy
+Governance Intermediation Layer,Whitepaper,http://www.semanticweb.org/gisa/STDAO/whitepaperText
+Organizational Manifestation Layer,Agreement,http://www.semanticweb.org/gisa/STDAO/agreement
+Organizational Manifestation Layer,Airdrop,http://www.semanticweb.org/gisa/STDAO/airdrop
+Organizational Manifestation Layer,Common Resources,http://www.semanticweb.org/gisa/STDAO/commonResources
+Organizational Manifestation Layer,Conflict,http://www.semanticweb.org/gisa/STDAO/conflict
+Organizational Manifestation Layer,Core Team,http://www.semanticweb.org/gisa/STDAO/coreTeam
+Organizational Manifestation Layer,Delegate Voter,http://www.semanticweb.org/gisa/STDAO/delegateVoter
+Organizational Manifestation Layer,Direct Voter,http://www.semanticweb.org/gisa/STDAO/directVoter
+Organizational Manifestation Layer,Discussion,http://www.semanticweb.org/gisa/STDAO/discussion
+Organizational Manifestation Layer,Documents,http://www.semanticweb.org/gisa/STDAO/documents
+Organizational Manifestation Layer,Economic Reward,http://www.semanticweb.org/gisa/STDAO/economic
+Organizational Manifestation Layer,Exchange,http://www.semanticweb.org/gisa/STDAO/exchange
+Organizational Manifestation Layer,Exchange Rate Observation,http://www.semanticweb.org/gisa/STDAO/exchangeRateObservation
+Organizational Manifestation Layer,Functional Team,http://www.semanticweb.org/gisa/STDAO/functionalTeam
+Organizational Manifestation Layer,ICO,http://www.semanticweb.org/gisa/STDAO/ICO
+Organizational Manifestation Layer,Interactions,http://www.semanticweb.org/gisa/STDAO/interactions
+Organizational Manifestation Layer,Investment Revenues,http://www.semanticweb.org/gisa/STDAO/investmentRevenues
+Organizational Manifestation Layer,Member,http://www.semanticweb.org/gisa/STDAO/member
+Organizational Manifestation Layer,Membership Record,http://www.semanticweb.org/gisa/STDAO/membershipRecord
+Organizational Manifestation Layer,Miner,http://www.semanticweb.org/gisa/STDAO/miner
+Organizational Manifestation Layer,Organization,http://www.semanticweb.org/gisa/STDAO/organization
+Organizational Manifestation Layer,Organizational Goal,http://www.semanticweb.org/gisa/STDAO/organizationalGoal
+Organizational Manifestation Layer,Organizational Manifestation Layer,http://www.semanticweb.org/gisa/STDAO/organizationalManifestationLayer
+Organizational Manifestation Layer,Organizational Status,http://www.semanticweb.org/gisa/STDAO/organizationalStatus
+Organizational Manifestation Layer,Product Oriented,http://www.semanticweb.org/gisa/STDAO/productOriented
+Organizational Manifestation Layer,Profit Oriented,http://www.semanticweb.org/gisa/STDAO/profitOriented
+Organizational Manifestation Layer,Proposal Participation,http://www.semanticweb.org/gisa/#STDAO:proposalParticipation
+Organizational Manifestation Layer,Proposal Text,http://www.semanticweb.org/gisa/STDAO/proposalText
+Organizational Manifestation Layer,Reputation,http://www.semanticweb.org/gisa/STDAO/reputation
+Organizational Manifestation Layer,Reward / Incentive,http://www.semanticweb.org/gisa/STDAO/reward
+Organizational Manifestation Layer,Sale,http://www.semanticweb.org/gisa/STDAO/sale
+Organizational Manifestation Layer,Smart Contract Content,http://www.semanticweb.org/gisa/STDAO/smartContractContent
+Organizational Manifestation Layer,Socially Oriented,http://www.semanticweb.org/gisa/STDAO/sociallyOriented
+Organizational Manifestation Layer,Special Rights Allocation,http://www.semanticweb.org/gisa/STDAO/specialRightsAllocation
+Organizational Manifestation Layer,Staked Funds,http://www.semanticweb.org/gisa/STDAO/stakedFunds
+Organizational Manifestation Layer,Team,http://www.semanticweb.org/gisa/STDAO/team
+Organizational Manifestation Layer,Technical Team,http://www.semanticweb.org/gisa/STDAO/technicalTeam
+Organizational Manifestation Layer,Token Distribution,http://www.semanticweb.org/gisa/STDAO/tokenDistribution
+Organizational Manifestation Layer,Token Holding,http://www.semanticweb.org/gisa/STDAO/tokenHolding
+Organizational Manifestation Layer,Token Owner,http://www.semanticweb.org/gisa/STDAO/tokenOwner
+Organizational Manifestation Layer,Transaction,http://www.semanticweb.org/gisa/STDAO/transaction
+Organizational Manifestation Layer,Vote Participation,http://www.semanticweb.org/gisa/STDAO/voteParticipation
+Organizational Manifestation Layer,Voter Turnout,http://www.semanticweb.org/gisa/STDAO/voterTurnout
+Organizational Manifestation Layer,Votes Result,http://www.semanticweb.org/gisa/STDAO/votesResult
+Organizational Manifestation Layer,Whitepaper,http://www.semanticweb.org/gisa/STDAO/whitepaperText
+Technical Artefactual Layer,Airdrop,http://www.semanticweb.org/gisa/STDAO/airdrop
+Technical Artefactual Layer,Block,http://www.semanticweb.org/gisa/STDAO/block
+Technical Artefactual Layer,Block Content,http://www.semanticweb.org/gisa/STDAO/blockContent
+Technical Artefactual Layer,Block Header,http://www.semanticweb.org/gisa/STDAO/blockHeader
+Technical Artefactual Layer,Blockchain,http://www.semanticweb.org/gisa/STDAO/blockchain
+Technical Artefactual Layer,Blockchain Account,http://www.semanticweb.org/gisa/STDAO/blockchainAccount
+Technical Artefactual Layer,Blockchain Platform,http://www.semanticweb.org/gisa/STDAO/blockchainPlatform
+Technical Artefactual Layer,Blockchain Transaction,http://www.semanticweb.org/gisa/STDAO/blockchainTransaction
+Technical Artefactual Layer,CEX,http://www.semanticweb.org/gisa/STDAO/CEX
+Technical Artefactual Layer,Contract Trigger,http://www.semanticweb.org/gisa/STDAO/contractTrigger
+Technical Artefactual Layer,Conviction Voting,http://www.semanticweb.org/gisa/STDAO/convictionVoting
+Technical Artefactual Layer,DAO,http://www.semanticweb.org/gisa/STDAO/DAO
+Technical Artefactual Layer,DAO Platform,http://www.semanticweb.org/gisa/STDAO/DAOPlatform
+Technical Artefactual Layer,DApp Platform,http://www.semanticweb.org/gisa/STDAO/DAppPlatform
+Technical Artefactual Layer,DEX,http://www.semanticweb.org/gisa/STDAO/DEX
+Technical Artefactual Layer,Dapp,http://www.semanticweb.org/gisa/STDAO/Dapp
+Technical Artefactual Layer,Deliberation Platform,http://www.semanticweb.org/gisa/STDAO/deliberationPlatform
+Technical Artefactual Layer,Direct Voting,http://www.semanticweb.org/gisa/STDAO/directVoting
+Technical Artefactual Layer,Economic Reward,http://www.semanticweb.org/gisa/STDAO/economic
+Technical Artefactual Layer,Exchange Platform,http://www.semanticweb.org/gisa/STDAO/exchangePlatform
+Technical Artefactual Layer,Externally Owned Account,http://www.semanticweb.org/gisa/STDAO/externallyOwnedAccount
+Technical Artefactual Layer,Formal Language,http://www.semanticweb.org/gisa/STDAO/formalLanguage
+Technical Artefactual Layer,Fund Allocation Contract,http://www.semanticweb.org/gisa/STDAO/fundAllocationContract
+Technical Artefactual Layer,Governance Token,http://www.semanticweb.org/gisa/STDAO/governanceToken
+Technical Artefactual Layer,Hash Function,http://www.semanticweb.org/gisa/STDAO/hashFunction
+Technical Artefactual Layer,Hash Value,http://www.semanticweb.org/gisa/STDAO/hashValue
+Technical Artefactual Layer,Holographic Voting,http://www.semanticweb.org/gisa/STDAO/holographicVoting
+Technical Artefactual Layer,ICO,http://www.semanticweb.org/gisa/STDAO/ICO
+Technical Artefactual Layer,Identity Management System,http://www.semanticweb.org/gisa/STDAO/identityManagementSystem
+Technical Artefactual Layer,Iot Device,http://www.semanticweb.org/gisa/STDAO/iotDevice
+Technical Artefactual Layer,Language,http://www.semanticweb.org/gisa/STDAO/language
+Technical Artefactual Layer,Membership Contract,http://www.semanticweb.org/gisa/STDAO/membershipContract
+Technical Artefactual Layer,Multi Signature Wallet,http://www.semanticweb.org/gisa/STDAO/multiSignatureWallet
+Technical Artefactual Layer,Natural Language,http://www.semanticweb.org/gisa/STDAO/naturalLanguage
+Technical Artefactual Layer,Oracle,http://www.semanticweb.org/gisa/STDAO/oracle
+Technical Artefactual Layer,Oracle Account,http://www.semanticweb.org/gisa/STDAO/oracleAccount
+Technical Artefactual Layer,Personal Wallet,http://www.semanticweb.org/gisa/STDAO/personalWallet
+Technical Artefactual Layer,Platform,http://www.semanticweb.org/gisa/STDAO/platform
+Technical Artefactual Layer,Quadratic Voting,http://www.semanticweb.org/gisa/STDAO/quadraticVoting
+Technical Artefactual Layer,Reputation,http://www.semanticweb.org/gisa/STDAO/reputation
+Technical Artefactual Layer,Reward / Incentive,http://www.semanticweb.org/gisa/STDAO/reward
+Technical Artefactual Layer,Security Token,http://www.semanticweb.org/gisa/STDAO/securityToken
+Technical Artefactual Layer,Self Sovereign Identity Provider,http://www.semanticweb.org/gisa/STDAO/selfSovereignIdentityProvider
+Technical Artefactual Layer,Smart Contract Account,http://www.semanticweb.org/gisa/STDAO/smartContractAccount
+Technical Artefactual Layer,Technical Artefactual Layer,http://www.semanticweb.org/gisa/STDAO/technicalArtefactualLayer
+Technical Artefactual Layer,Token,http://www.semanticweb.org/gisa/STDAO/token
+Technical Artefactual Layer,Token Contract,http://www.semanticweb.org/gisa/STDAO/tokenContract
+Technical Artefactual Layer,Token Distribution,http://www.semanticweb.org/gisa/STDAO/tokenDistribution
+Technical Artefactual Layer,Token Standard,http://www.semanticweb.org/gisa/STDAO/tokenStandard
+Technical Artefactual Layer,Token Transfer Record,http://www.semanticweb.org/gisa/STDAO/tokenTransferRecord
+Technical Artefactual Layer,Transactional Token,http://www.semanticweb.org/gisa/STDAO/transactionalToken
+Technical Artefactual Layer,Utility Token,http://www.semanticweb.org/gisa/STDAO/utilityToken
+Technical Artefactual Layer,Voting Contract,http://www.semanticweb.org/gisa/STDAO/votingContract
+Technical Artefactual Layer,Voting Platform,http://www.semanticweb.org/gisa/STDAO/votingPlatform
+Technical Artefactual Layer,Voting Scheme,http://www.semanticweb.org/gisa/STDAO/votingScheme
+Technical Artefactual Layer,Web3 Wallet Account,http://www.semanticweb.org/gisa/STDAO/web3WalletAccount
+Technical Artefactual Layer,Web3 Wallet Platform,http://www.semanticweb.org/gisa/STDAO/web3WalletPlatform

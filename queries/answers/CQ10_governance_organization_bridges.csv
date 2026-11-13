@@ -1,0 +1,6 @@
+property,domain,range
+http://www.semanticweb.org/gisa/STDAO/changesStatusQuo,http://www.semanticweb.org/gisa/STDAO/governanceProposal,http://www.semanticweb.org/gisa/STDAO/organizationalStatus
+http://www.semanticweb.org/gisa/STDAO/distributionIsReflectedIn,http://www.semanticweb.org/gisa/STDAO/tokenDistribution,http://www.semanticweb.org/gisa/STDAO/voteParticipation
+http://www.semanticweb.org/gisa/STDAO/givesGovernanceRight,http://www.semanticweb.org/gisa/STDAO/governanceToken,http://www.semanticweb.org/gisa/STDAO/member
+http://www.semanticweb.org/gisa/STDAO/hasGovernanceSystem,http://www.semanticweb.org/gisa/STDAO/DAO,http://www.semanticweb.org/gisa/STDAO/DAOGovernance
+http://www.semanticweb.org/gisa/STDAO/shapesStatusQuo,http://www.semanticweb.org/gisa/#STDAO:governanceIntermediationLayer,http://www.semanticweb.org/gisa/STDAO/organizationalStatus

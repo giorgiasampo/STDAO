@@ -1,0 +1,9 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX st: <http://www.semanticweb.org/gisa/STDAO/>
+PREFIX old: <http://www.semanticweb.org/gisa/#STDAO:>
+SELECT ?branchLabel ?classLabel ?class WHERE {
+ VALUES ?branch { st:legalAspects st:securityRisk }
+ ?branch rdfs:label ?branchLabel . ?class a owl:Class ; rdfs:subClassOf* ?branch ; rdfs:label ?classLabel . FILTER(isIRI(?class))
+} ORDER BY ?branchLabel ?classLabel

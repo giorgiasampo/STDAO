@@ -1,0 +1,8 @@
+record,property,operator,count,filler
+http://www.semanticweb.org/gisa/STDAO/ballot,http://www.semanticweb.org/gisa/STDAO/ballotBy,http://www.w3.org/2002/07/owl#qualifiedCardinality,1,http://www.semanticweb.org/gisa/STDAO/member
+http://www.semanticweb.org/gisa/STDAO/ballot,http://www.semanticweb.org/gisa/STDAO/ballotInProcess,http://www.w3.org/2002/07/owl#qualifiedCardinality,1,http://www.semanticweb.org/gisa/STDAO/votingProcess
+http://www.semanticweb.org/gisa/STDAO/ballot,http://www.semanticweb.org/gisa/STDAO/castAt,http://www.w3.org/2002/07/owl#maxQualifiedCardinality,1,http://www.w3.org/2001/XMLSchema#dateTime
+http://www.semanticweb.org/gisa/STDAO/ballot,http://www.semanticweb.org/gisa/STDAO/voteChoice,http://www.w3.org/2002/07/owl#qualifiedCardinality,1,http://www.w3.org/2001/XMLSchema#string
+http://www.semanticweb.org/gisa/STDAO/ballot,http://www.semanticweb.org/gisa/STDAO/voteWeight,http://www.w3.org/2002/07/owl#maxQualifiedCardinality,1,http://www.w3.org/2001/XMLSchema#decimal
+http://www.semanticweb.org/gisa/STDAO/votingProcess,http://www.semanticweb.org/gisa/STDAO/processUsesScheme,http://www.w3.org/2002/07/owl#minQualifiedCardinality,1,http://www.semanticweb.org/gisa/STDAO/votingScheme
+http://www.semanticweb.org/gisa/STDAO/votingProcess,http://www.semanticweb.org/gisa/STDAO/votingProcessForProposal,http://www.w3.org/2002/07/owl#qualifiedCardinality,1,http://www.semanticweb.org/gisa/STDAO/proposal

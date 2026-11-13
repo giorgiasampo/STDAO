@@ -1,0 +1,6 @@
+property,domainLabel,rangeLabel,inverse
+http://www.semanticweb.org/gisa/STDAO/reputationEnablesSpecialRightsAllocation,Reputation,Special Rights Allocation,http://www.semanticweb.org/gisa/STDAO/specialRightsAllocationEnabledByReputation
+http://www.semanticweb.org/gisa/STDAO/specialRightsAreGivenBy,Special Rights Allocation,Member,http://www.semanticweb.org/gisa/STDAO/grantsSpecialRights
+http://www.semanticweb.org/gisa/STDAO/specialRightsAreGivenBy,Special Rights Allocation,Team,http://www.semanticweb.org/gisa/STDAO/grantsSpecialRights
+http://www.semanticweb.org/gisa/STDAO/specialRightsAreHeldBy,Special Rights Allocation,Member,http://www.semanticweb.org/gisa/STDAO/hasSpecialRights
+http://www.semanticweb.org/gisa/STDAO/specialRightsAreHeldBy,Special Rights Allocation,Team,http://www.semanticweb.org/gisa/STDAO/hasSpecialRights

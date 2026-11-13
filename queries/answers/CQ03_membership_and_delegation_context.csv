@@ -1,0 +1,7 @@
+record,property,count,filler
+http://www.semanticweb.org/gisa/STDAO/membershipRecord,http://www.semanticweb.org/gisa/STDAO/membershipDAO,1,http://www.semanticweb.org/gisa/STDAO/DAO
+http://www.semanticweb.org/gisa/STDAO/membershipRecord,http://www.semanticweb.org/gisa/STDAO/membershipMember,1,http://www.semanticweb.org/gisa/STDAO/member
+http://www.semanticweb.org/gisa/STDAO/tokenDelegation,http://www.semanticweb.org/gisa/STDAO/delegatedToken,1,http://www.semanticweb.org/gisa/STDAO/token
+http://www.semanticweb.org/gisa/STDAO/tokenDelegation,http://www.semanticweb.org/gisa/STDAO/delegationForDAO,1,http://www.semanticweb.org/gisa/STDAO/DAO
+http://www.semanticweb.org/gisa/STDAO/tokenDelegation,http://www.semanticweb.org/gisa/STDAO/delegationFrom,1,http://www.semanticweb.org/gisa/STDAO/tokenOwner
+http://www.semanticweb.org/gisa/STDAO/tokenDelegation,http://www.semanticweb.org/gisa/STDAO/delegationTo,1,http://www.semanticweb.org/gisa/STDAO/delegateVoter
